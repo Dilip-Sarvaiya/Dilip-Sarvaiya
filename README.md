@@ -1,4 +1,4 @@
-## Hello, I'm [Dilip Sarvaiyad!](http://dilipsarvaiya.epizy.com/) 👋
+## Hello, I'm [Dilip Sarvaiya!](http://dilipsarvaiya.epizy.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilip-Sarvaiya&label=Views&color=blue&style=plastic" alt="Dilip-Sarvaiya" /> </p>
 
