@@ -32,7 +32,7 @@
 
 
 [![Twitter: DilipJSarvaiya1](https://img.shields.io/twitter/follow/DilipJSarvaiya1?style=social)](https://twitter.com/DilipJSarvaiya1)
-[![Linkedin: Dilip Sarvaiya](https://img.shields.io/badge/-Dilip-Sarvaiya--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)](https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)
+[![Linkedin: Dilip Sarvaiya](https://img.shields.io/badge/-Dilip-Sarvaiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)](https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)
 [![GitHub Dilip-Sarvaiya](https://img.shields.io/github/followers/Dilip-Sarvaiya?label=follow&style=social)](https://github.com/Dilip-Sarvaiya)
 [![website](https://img.shields.io/badge/PortfolioWebsite-dilipsarvaiya.epizy.com-2648ff?style=flat-square&logo=google-chrome)](http://dilipsarvaiya.epizy.com/)
 
