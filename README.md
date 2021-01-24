@@ -21,12 +21,12 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Android Application development & Website development.
+- 🌱 I’m currently learning Android Application development & Website development.🌐
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCmGcHvn1QL7ZR1yb-Kq9WqA?view_as=subscriber).
-- 💬 Ask me about Android or Website Designing and Development tools related stuff.
-- 📫[Youtube - @Web_Development](https://www.youtube.com/channel/UCmGcHvn1QL7ZR1yb-Kq9WqA?view_as=subscriber)
+- 💬 Ask me about Android or Website Designing and Development tools related stuff. 💻
+- 📫[Youtube - @Web_Development](https://www.youtube.com/channel/UCmGcHvn1QL7ZR1yb-Kq9WqA?view_as=subscriber) 🖱️
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours listening songs & Movie everyday.
+- ⚡ Fun fact: I spend almost 2 hours listening songs & Movie everyday.💻
 
 
 
